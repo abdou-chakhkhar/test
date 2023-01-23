@@ -5,4 +5,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 3.0.1 (2023-01-23)
 
-**Note:** Version bump only for package @ohif/extension-cornerstone
+**Note:** Version bump only for package @ohif/extension-cornerstone-dicom-seg
