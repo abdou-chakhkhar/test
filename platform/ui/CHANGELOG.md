@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.3](https://github.com/abdou-chakhkhar/test/compare/@ohif/ui@2.0.2...@ohif/ui@2.0.3) (2023-01-23)
+
+**Note:** Version bump only for package @ohif/ui
+
+
+
+
+
 ## [2.0.2](https://github.com/abdou-chakhkhar/test/compare/@ohif/ui@2.0.1...@ohif/ui@2.0.2) (2023-01-23)
 
 **Note:** Version bump only for package @ohif/ui
